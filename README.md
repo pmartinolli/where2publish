@@ -51,7 +51,7 @@ Ces techniques consistent à apparier votre sujet de recherche avec des revues q
 
 #### A3 : Autres jumelages
 
-- Consultez la section Outils de jumelage manuscrit/revue https://bib.umontreal.ca/gerer-diffuser/communication-savante?tab=470
+- Consultez la section [Outils de jumelage manuscrit/revue](https://bib.umontreal.ca/gerer-diffuser/communication-savante?tab=470)
 
 
 ### Techniques B : Listes par disciplines
@@ -88,9 +88,7 @@ Ces techniques consistent à repérer des listes de revues par disciplines ou gr
 
 ### Attention aux revues prédatrices !
 
-- Ce sont des revues qui prétendent conduire une évaluation par les pairs de qualité alors qu'elles ne font que recevoir vos frais de publications sans travailler sur votre article. Publier dans une revue prédatrice est très négatif pour votre carrière universitaire.
-
-- Pour en savoir plus : https://bib.umontreal.ca/gerer-diffuser/communication-savante?tab=470 
+- Ce sont des revues qui prétendent conduire une évaluation par les pairs de qualité alors qu'elles ne font que recevoir vos frais de publications sans travailler sur votre article. Publier dans une revue prédatrice est très négatif pour votre carrière universitaire. [Pour en savoir plus](https://bib.umontreal.ca/gerer-diffuser/communication-savante?tab=470)
 
 ### Article ou chapitre ?
 
