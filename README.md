@@ -22,7 +22,7 @@ TL;DR : Une grille d'analyse à se constituer soi-même, selon sa discipline et 
 - **DOI** : La revue fournit-elle un DOI pour chaque article publié ?
 - **ORCID** : La revue demande-t-elle des ORCID pour les auteurs (encore peu courant en 2021) ?
 - **Libre accès** : Y a-t-il une politique de libre accès ? voir [Sherpa Romeo](https://v2.sherpa.ac.uk/romeo/).
-- **APC** : Quels sont les frais de publication ?
+- **APC** : Quels sont les frais de publication ? Parfois difficile à trouver. Voir la fiche [DOAJ](https://doaj.org/) de la revue.
 - **Score** : MON propre jugement sur cette revue. 0 = rejeté. 1 = à considérer en priorité. 2 = peut-être. 3 = peu pertinent.
 - **Notes** : MES notes personnelles sur mon score et mon jugement.
 
