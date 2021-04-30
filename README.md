@@ -36,21 +36,21 @@ Ces techniques consistent à apparier votre sujet de recherche avec des revues q
 
 #### A1 : Zotero/Endnote
 
-À partir de sa collection de références bibliographiques sur son sujet de recherche.
+- À partir de sa collection de références bibliographiques sur son sujet de recherche.
 
-Fonctionne bien si : vous avez déjà une bonne revue de littérature sur votre sujet dans votre base Zotero/Endnote.
+- Fonctionne bien si : vous avez déjà une bonne revue de littérature sur votre sujet dans votre base Zotero/Endnote.
 
 #### A2 : Web of Science - Analyze Results
 
-À partir d'une liste de résultats de recherche sur des mots clés de votre sujet.
+- À partir d'une liste de résultats de recherche sur des mots clés de votre sujet.
 
-Fonctionne bien si : il y a des résultats pertinents.
+- Fonctionne bien si : il y a des résultats pertinents.
 
-Se connecter à Web of Science. Lancer une recherche pertinente. En parcourant manuellement la liste des résultats. repérer les noms de revue des résultats les plus pertinents. Puis, dans cette liste des résultats cliquer sur Analyze Results et Source Titles. Vous obtiendrez les sources qui reviennent le plus souvent dans la liste de résultats. Note: Book Series Titles (pour les livres) ou Meeting Titles (pour les actes de congrès) peuvent être intéressants. 
+- Se connecter à Web of Science. Lancer une recherche pertinente. En parcourant manuellement la liste des résultats. repérer les noms de revue des résultats les plus pertinents. Puis, dans cette liste des résultats cliquer sur Analyze Results et Source Titles. Vous obtiendrez les sources qui reviennent le plus souvent dans la liste de résultats. Note: Book Series Titles (pour les livres) ou Meeting Titles (pour les actes de congrès) peuvent être intéressants. 
 
 #### A3 : Autres jumelages
 
-Consultez la section Outils de jumelage manuscrit/revue https://bib.umontreal.ca/gerer-diffuser/communication-savante?tab=470
+- Consultez la section Outils de jumelage manuscrit/revue https://bib.umontreal.ca/gerer-diffuser/communication-savante?tab=470
 
 
 ### Techniques B : Listes par disciplines
@@ -59,47 +59,47 @@ Ces techniques consistent à repérer des listes de revues par disciplines ou gr
 
 #### B1 : Journal Citation Reports
 
-La base de données JCR est construite à partir des données de citation de Web of Science et permet de classer et repérer les revues les plus citées.
+- La base de données JCR est construite à partir des données de citation de Web of Science et permet de classer et repérer les revues les plus citées.
 
-Fonctionne bien si : le JCR a une catégorie de revues pour votre sujet ou votre discipline (par exemple, des catégories multidisciplinaires sont absentes et les revues en arts et sciences humaines y sont [très peu représentées](https://support.clarivate.com/ScientificandAcademicResearch/s/article/Journal-Citation-Reports-Reasons-for-not-calculating-Impact-Factors-for-journals-covered-in-Arts-Humanities-Citation-Index?language=en_US)).
+- Fonctionne bien si : le JCR a une catégorie de revues pour votre sujet ou votre discipline (par exemple, des catégories multidisciplinaires sont absentes et les revues en arts et sciences humaines y sont [très peu représentées](https://support.clarivate.com/ScientificandAcademicResearch/s/article/Journal-Citation-Reports-Reasons-for-not-calculating-Impact-Factors-for-journals-covered-in-Arts-Humanities-Citation-Index?language=en_US)).
 
-Consulter le [Journal Citation Reports](https://jcr.clarivate.com/). Dans la colonne de droite, cliquer sur Select Categories. Sélectionner votre domaine, tout en bas de la colonne cliquer sur Submit. Trier par facteur d’impact (Journal Impact Factor).
+- Consulter le [Journal Citation Reports](https://jcr.clarivate.com/). Dans la colonne de droite, cliquer sur Select Categories. Sélectionner votre domaine, tout en bas de la colonne cliquer sur Submit. Trier par facteur d’impact (Journal Impact Factor).
 
 #### B2 : SCImago 
 
-La base de données SCImago est construite à partir des données de Scopus et permet de classer et repérer les revues les plus citées. 
+- La base de données SCImago est construite à partir des données de Scopus et permet de classer et repérer les revues les plus citées. 
 
-Fonctionne bien si : SCImago a une catégorie de revues pour votre sujet ou votre discipline (par exemple, des catégories multidisciplinaires sont absentes).
+- Fonctionne bien si : SCImago a une catégorie de revues pour votre sujet ou votre discipline (par exemple, des catégories multidisciplinaires sont absentes).
 
-Consulter le [SCImago](http://www.scimagojr.com). Cliquer sur Journal ranking (en haut), puis sélectionner votre domaine et un sous-domaine (dérouler les cases All-subject area et all-subject categories). Puis trier par SJR ou Cites per doc.
+- Consulter le [SCImago](http://www.scimagojr.com). Cliquer sur Journal ranking (en haut), puis sélectionner votre domaine et un sous-domaine (dérouler les cases All-subject area et all-subject categories). Puis trier par SJR ou Cites per doc.
 
 
 #### B3 : Ulrich’s Periodical Directory 
 
-Lister des revues par domaines et vérifier si vos revues ont un comité de lecture.
+- Lister des revues par domaines et vérifier si vos revues ont un comité de lecture.
 
-Fonctionne bien si : Ulrich est à jour (parfois les données n'ont pas été actualisées).
+- Fonctionne bien si : Ulrich est à jour (parfois les données n'ont pas été actualisées).
 
-Consulter [Ulrich’s Periodical Directory](https://www.ulrichsweb.com/) ([Maestro](https://bib.umontreal.ca/maestro) > par titre > U). Recherche avancée. Rechercher par Sujet (mot-clé) : Filtrer en ne gardant que les revues “Arbitrées” ou “Refereed /Peer-reviewed”.
+- Consulter [Ulrich’s Periodical Directory](https://www.ulrichsweb.com/) ([Maestro](https://bib.umontreal.ca/maestro) > par titre > U). Recherche avancée. Rechercher par Sujet (mot-clé) : Filtrer en ne gardant que les revues “Arbitrées” ou “Refereed /Peer-reviewed”.
 
 
 ## Notes importantes
 
 ### Attention aux revues prédatrices !
 
-Ce sont des revues qui prétendent conduire une évaluation par les pairs de qualité alors qu'elles ne font que recevoir vos frais de publications sans travailler sur votre article. Publier dans une revue prédatrice est très négatif pour votre carrière universitaire.
+- Ce sont des revues qui prétendent conduire une évaluation par les pairs de qualité alors qu'elles ne font que recevoir vos frais de publications sans travailler sur votre article. Publier dans une revue prédatrice est très négatif pour votre carrière universitaire.
 
-Pour en savoir plus : https://bib.umontreal.ca/gerer-diffuser/communication-savante?tab=470 
+- Pour en savoir plus : https://bib.umontreal.ca/gerer-diffuser/communication-savante?tab=470 
 
 ### Article ou chapitre ?
 
-Notez que de manière générale, un article révisé par les pairs aura un peu plus de visibilité qu'un chapitre de livre. 
+- Notez que de manière générale, un article révisé par les pairs aura un peu plus de visibilité qu'un chapitre de livre. 
 
 ### Libre accès ?
 
-Notez que de manière générale, un article publié en libre accès aura un peu plus de chance d'être lu et donc d'être cité. 
+- Notez que de manière générale, un article publié en libre accès aura un peu plus de chance d'être lu et donc d'être cité. 
 
-Nous vous recommandons d'utiliser [Sherpa Romeo](https://v2.sherpa.ac.uk/romeo/) pour vous permettre de vérifier les politiques de libre accès des revues. 
+- Nous vous recommandons d'utiliser [Sherpa Romeo](https://v2.sherpa.ac.uk/romeo/) pour vous permettre de vérifier les politiques de libre accès des revues. 
 
 ### Demandez conseil
 
