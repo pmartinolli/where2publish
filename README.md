@@ -101,9 +101,8 @@ Ces techniques consistent à repérer des listes de revues par disciplines ou gr
 
 - Nous vous recommandons d'utiliser [Sherpa Romeo](https://v2.sherpa.ac.uk/romeo/) pour vous permettre de vérifier les politiques de libre accès des revues. 
 
-### Demandez conseil
+### Demandez conseil à : 
 
-Demandez conseil à : 
 - votre directeur de recherche
 - votre bibliothécaire disciplinaire
 - vos pairs 
