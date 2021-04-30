@@ -34,11 +34,11 @@ Voici quelques techniques pour vous constituer des listes de revues où vous pou
 
 Ces techniques consistent à apparier votre sujet de recherche avec des revues qui ont déjà publié des articles sur ce sujet.
 
-#### A1 : Zotero
+#### A1 : Zotero/Endnote
 
 À partir de sa collection de références bibliographiques sur son sujet de recherche.
 
-Fonctionne bien si : vous avez déjà une bonne revue de littérature sur votre sujet dans votre base Zotero.
+Fonctionne bien si : vous avez déjà une bonne revue de littérature sur votre sujet dans votre base Zotero/Endnote.
 
 #### A2 : Web of Science - Analyze Results
 
@@ -46,10 +46,7 @@ Fonctionne bien si : vous avez déjà une bonne revue de littérature sur votre 
 
 Fonctionne bien si : il y a des résultats pertinents.
 
-Se connecter à Web of Science
-Lancer une recherche pertinente
-En parcourant manuellement la liste des résultats. repérer les noms de revue des résultats les plus pertinents.
-Puis, dans cette liste des résultats cliquer sur Analyze Results et Source Titles. Vous obtiendrez les sources qui reviennent le plus souvent dans la liste de résultats. Note: Book Series Titles (pour les livres) ou Meeting Titles (pour les actes de congrès) peuvent être intéressants. 
+Se connecter à Web of Science. Lancer une recherche pertinente. En parcourant manuellement la liste des résultats. repérer les noms de revue des résultats les plus pertinents. Puis, dans cette liste des résultats cliquer sur Analyze Results et Source Titles. Vous obtiendrez les sources qui reviennent le plus souvent dans la liste de résultats. Note: Book Series Titles (pour les livres) ou Meeting Titles (pour les actes de congrès) peuvent être intéressants. 
 
 #### A3 : Autres jumelages
 
@@ -58,7 +55,7 @@ Consultez la section Outils de jumelage manuscrit/revue https://bib.umontreal.ca
 
 ### Techniques B : Listes par disciplines
 
-Ces techniques consistent à repérer des listes de revues par disciplines ou grands domaines. Elles sont plus générales que la technique par appariement. 
+Ces techniques consistent à repérer des listes de revues par disciplines ou grands domaines. Elles sont plus générales que la technique précédente par appariement. 
 
 #### B1 : Journal Citation Reports
 
@@ -66,8 +63,7 @@ La base de données JCR est construite à partir des données de citation de Web
 
 Fonctionne bien si : le JCR a une catégorie de revues pour votre sujet ou votre discipline (par exemple, des catégories multidisciplinaires sont absentes et les revues en arts et sciences humaines y sont [très peu représentées](https://support.clarivate.com/ScientificandAcademicResearch/s/article/Journal-Citation-Reports-Reasons-for-not-calculating-Impact-Factors-for-journals-covered-in-Arts-Humanities-Citation-Index?language=en_US)).
 
-- Consulter le [Journal Citation Reports](https://jcr.clarivate.com/)
-- Dans la colonne de droite, cliquer sur Select Categories. Sélectionner votre domaine, tout en bas de la colonne cliquer sur Submit. Trier par facteur d’impact (Journal Impact Factor).
+Consulter le [Journal Citation Reports](https://jcr.clarivate.com/). Dans la colonne de droite, cliquer sur Select Categories. Sélectionner votre domaine, tout en bas de la colonne cliquer sur Submit. Trier par facteur d’impact (Journal Impact Factor).
 
 #### B2 : SCImago 
 
@@ -75,19 +71,16 @@ La base de données SCImago est construite à partir des données de Scopus et p
 
 Fonctionne bien si : SCImago a une catégorie de revues pour votre sujet ou votre discipline (par exemple, des catégories multidisciplinaires sont absentes).
 
-- Consulter le [SCImago](http://www.scimagojr.com). 
-- Cliquer sur Journal ranking (en haut), puis sélectionner votre domaine et un sous-domaine (dérouler les cases All-subject area et all-subject categories). 
-- Puis trier par SJR ou Cites per doc.
+Consulter le [SCImago](http://www.scimagojr.com). Cliquer sur Journal ranking (en haut), puis sélectionner votre domaine et un sous-domaine (dérouler les cases All-subject area et all-subject categories). Puis trier par SJR ou Cites per doc.
 
 
 #### B3 : Ulrich’s Periodical Directory 
 
-Vérifier si vos revues ont un comité de lecture en consultant [Ulrich’s Periodical Directory](https://www.ulrichsweb.com/) (Maestro > par titre > U).
-Chercher avec le nom de la revue, cliquer sur sa description complète et vérifier si la revue est “refereed” (ils ont mal traduit en français par “référencé”).
+Lister des revues par domaines et vérifier si vos revues ont un comité de lecture.
 
-- Recherche avancées
-- Rechercher par Sujet (mot-clé) : 
-- Filtrer par en ne gardant que les revues Arbitrées.
+Fonctionne bien si : Ulrich est à jour (parfois les données n'ont pas été actualisées).
+
+Consulter [Ulrich’s Periodical Directory](https://www.ulrichsweb.com/) ([Maestro](https://bib.umontreal.ca/maestro) > par titre > U). Recherche avancée. Rechercher par Sujet (mot-clé) : Filtrer en ne gardant que les revues “Arbitrées” ou “Refereed /Peer-reviewed”.
 
 
 ## Notes importantes
@@ -97,7 +90,6 @@ Chercher avec le nom de la revue, cliquer sur sa description complète et vérif
 Ce sont des revues qui prétendent conduire une évaluation par les pairs de qualité alors qu'elles ne font que recevoir vos frais de publications sans travailler sur votre article. Publier dans une revue prédatrice est très négatif pour votre carrière universitaire.
 
 Pour en savoir plus : https://bib.umontreal.ca/gerer-diffuser/communication-savante?tab=470 
-
 
 ### Article ou chapitre ?
 
