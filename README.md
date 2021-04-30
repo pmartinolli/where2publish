@@ -1,19 +1,15 @@
 # Dans quelle revue diffuser ma recherche ?
 _Where to publish my research ? Listing and assessing academic journals_
 
+TL;DR : Une grille d'analyse à se constituer soi-même, selon sa discipline et selon ses recherches, pour lister et comparer les principales revues où diffuser vos résultats de recherche.
 
-### Téléchargement
-
-- Format tabulé CSV
-
+- Fichier d'exemple au format tabulé CSV.
 
 ### Aperçu
 | Nom de la revue | Pairs | Focus | Soumission | Langues | Facteur d'Impact | Google Scholar | DOI | ORCID | Libre accès | APC | Score | Notes
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |  -------- |  -------- |  -------- | 
 | -     |  | |  | |  |  | | | | | 
 | -     |  | |  | |  |  | | | | | 
-
-
 
 ### Légende :
 
