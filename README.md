@@ -6,15 +6,16 @@ TL;DR : Une grille d'analyse à se constituer soi-même, selon sa discipline et 
 - Fichier d'exemple au format tabulé CSV.
 
 ### Aperçu
-| Nom de la revue | Pairs | Focus | Soumission | Langues | Facteur d'Impact | Google Scholar | DOI | ORCID | Libre accès | APC | Score | Notes
-| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |  -------- |  -------- |  -------- | 
-| -     |  | |  | |  |  | | | | | 
-| -     |  | |  | |  |  | | | | | 
+| Nom de la revue | Pairs | Focus | Soumission | Langues | Facteur d'Impact | Google Scholar | DOI | ORCID | Libre accès | Frais Publication/APC | Score | Notes |URL
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |  -------- |  -------- |  -------- | ------ |
+| -     |  | |  | |  |  | | | | | |
+| -     |  | |  | |  |  | | | | | |
+| -     |  | |  | |  |  | | | | | |
 
 ### Légende :
 
 - **Pairs** : Y a-t-il un processus de révision par les pairs valide ? Est-il clair ?
-- **Focus** : La revue a-t-elle un focus sur mon sujet de recherche ?
+- **Focus** : La revue a-t-elle un focus sur mon sujet de recherche ? Option : combien d'articles sur mon sujet ont-ils déjà été publiés.
 - **Soumission** : Types de soumission d'articles à la revue : permanent, sur appel, etc. Aussi les préférences de la revue sur le type de recherche et la longueur d'article à soumettre.
 - **Langues** : de publication des articles
 - **Facteur d'Impact** : Est-ce que la revue est dans Web of Science ? Quel est son plus récent facteur d'impact.
@@ -22,7 +23,7 @@ TL;DR : Une grille d'analyse à se constituer soi-même, selon sa discipline et 
 - **DOI** : La revue fournit-elle un DOI pour chaque article publié ?
 - **ORCID** : La revue demande-t-elle des ORCID pour les auteurs (encore peu courant en 2021) ?
 - **Libre accès** : Y a-t-il une politique de libre accès ? voir [Sherpa Romeo](https://v2.sherpa.ac.uk/romeo/).
-- **APC** : Quels sont les frais de publication ? Parfois difficile à trouver. Voir la fiche [DOAJ](https://doaj.org/) de la revue.
+- **Frais de publication/APC** : Quels sont les frais de publication ou les sur-frais de libre accès ? Parfois difficile à trouver. Voir la fiche [DOAJ](https://doaj.org/) de la revue.
 - **Score** : MON propre jugement sur cette revue. 0 = rejeté. 1 = à considérer en priorité. 2 = peut-être. 3 = peu pertinent.
 - **Notes** : MES notes personnelles sur mon score et mon jugement.
 
@@ -30,9 +31,9 @@ TL;DR : Une grille d'analyse à se constituer soi-même, selon sa discipline et 
 
 Voici quelques techniques pour vous constituer des listes de revues où vous pourriez diffuser votre recherche.
 
-### Techniques A : jumelages sujets/revues
+### Techniques A : jumelages sujets/revues (recommandés)
 
-Ces techniques consistent à apparier votre sujet de recherche avec des revues qui ont déjà publié des articles sur ce sujet.
+Ces techniques consistent à apparier votre sujet de recherche avec des revues qui ont déjà publié des articles sur ce sujet. Ce sont les techniques recommandées car il est possible que pour 2 article sur des sujets différents, vous ayez à produire 2 tableaux (un peu ou très différents).
 
 #### A1 : Zotero/Endnote
 
@@ -55,7 +56,7 @@ Ces techniques consistent à apparier votre sujet de recherche avec des revues q
 
 ### Techniques B : Listes par disciplines
 
-Ces techniques consistent à repérer des listes de revues par disciplines ou grands domaines. Elles sont plus générales que la technique précédente par appariement. 
+Ces techniques consistent à repérer des listes de revues par disciplines ou grands domaines. Elles sont plus générales que la technique précédente par appariement. Elles servent surtout à identifier les principales revues d'un domaine.
 
 #### B1 : Journal Citation Reports
 
