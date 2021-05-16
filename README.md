@@ -37,7 +37,7 @@ Ces techniques consistent à apparier votre sujet de recherche avec des revues q
 
 #### A1 : Zotero/Endnote
 
-- À partir de sa collection de références bibliographiques sur son sujet de recherche.
+- À partir de sa collection de références bibliographiques sur son sujet de recherche. [Astuce Zotero pour l'extraction](https://jdr.hypotheses.org/18).
 
 - Fonctionne bien si : vous avez déjà une bonne revue de littérature sur votre sujet dans votre base Zotero/Endnote.
 
