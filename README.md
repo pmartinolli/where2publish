@@ -2,7 +2,7 @@
 
 En bref : Une grille d'analyse à se constituer soi-même, selon sa discipline et selon ses recherches, pour lister et comparer les principales revues où diffuser vos résultats de recherche.
 
-*Where to publish my research ? A DIY list to compare the main journals of your field, helping you deciding where to submit your paper.*
+*Where to publish my research ? A DIY list to compare the principal journals of your field and to help you deciding where to submit your paper.*
 
 - [Example pour les jeux de rôle sur table/ *Example for TTRPG*](https://github.com/pmartinolli/where2publish/blob/main/where2publish-example-TTRPG.csv)
 
