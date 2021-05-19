@@ -16,7 +16,7 @@ En bref : Une grille d'analyse à se constituer soi-même, selon sa discipline e
 ### Légende :
 
 - **Pairs** : Y a-t-il un processus de révision par les pairs valide ? Est-il clair ?
-- **Focus** : La revue a-t-elle un focus sur mon sujet de recherche ? Option : combien d'articles sur mon sujet ont-ils déjà été publiés.
+- **Focus** : La revue a-t-elle un focus sur mon sujet de recherche ? Option : combien d'articles sur mon sujet ont-ils déjà été publiés ?
 - **Soumission** : Types de soumission d'articles à la revue : permanent, sur appel, etc. Aussi les préférences de la revue sur le type de recherche et la longueur d'article à soumettre.
 - **Langues** : de publication des articles
 - **Facteur d'Impact** : Est-ce que la revue est dans Web of Science ? Quel est son plus récent facteur d'impact.
