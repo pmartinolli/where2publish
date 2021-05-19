@@ -1,8 +1,8 @@
 # Dans quelle revue diffuser ma recherche ?
 
-En bref : Une grille d'analyse à se constituer soi-même, selon sa discipline et selon ses recherches, pour lister et comparer les principales revues où diffuser vos résultats de recherche.
+En bref : Une grille d'analyse à se constituer soi-même, selon sa discipline et selon ses recherches, pour lister et comparer les principales revues où diffuser vos résultats de recherche dans un but de bonifier son CV de jeune chercheur.
 
-*Where to publish my research ? A DIY list to compare the principal journals of your field and to help you deciding where to submit your paper.*
+*Where to publish my research ? A DIY list to compare the principal journals of your field and to help you deciding where to submit your paper for your early career as researcher.*
 
 - [Exemple : jeux de rôle sur table/ *Example for TTRPG*](https://github.com/pmartinolli/where2publish/blob/main/where2publish-example-TTRPG.csv)
 
@@ -41,7 +41,7 @@ Ces techniques consistent à apparier votre sujet de recherche avec des revues q
 #### A1 : Zotero/Endnote
 
 - À partir de sa collection de références bibliographiques sur son sujet de recherche. [Astuce Zotero pour l'extraction](https://jdr.hypotheses.org/18).
-
+- 
 - Fonctionne bien si : vous avez déjà une bonne revue de littérature sur votre sujet dans votre base Zotero/Endnote.
 
 #### A2 : Web of Science - Analyze Results
@@ -100,8 +100,8 @@ Ces techniques consistent à repérer des listes de revues par disciplines ou gr
 ### Libre accès ?
 
 - Notez que de manière générale, un article publié en libre accès aura un peu plus de chance d'être lu et donc d'être cité. 
-
-- Nous vous recommandons d'utiliser [Sherpa Romeo](https://v2.sherpa.ac.uk/romeo/) pour vous permettre de vérifier les politiques de libre accès des revues. 
+- Nous vous recommandons d'utiliser [Sherpa Romeo](https://v2.sherpa.ac.uk/romeo/) pour vous permettre de vérifier les politiques de libre accès des revues.
+- N'oubliez pas que pour certaines options de libre accès avec une revue, vous pouvez déposer la version *postprint* de votre article dans le dépôt institutionnel de votre université (ex: [Papyrus](https://papyrus.bib.umontreal.ca/) pour l'UdeM). NB: ResearchGate, Academia et votre site personnel ne sont pas considérés comme valables dans la majorité des options de libre accès.
 
 ### Demandez conseil à : 
 
