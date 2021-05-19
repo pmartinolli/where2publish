@@ -4,7 +4,7 @@ En bref : Une grille d'analyse à se constituer soi-même, selon sa discipline e
 
 *Where to publish my research ? A DIY list to compare the principal journals of your field and to help you deciding where to submit your paper.*
 
-- [Example pour les jeux de rôle sur table/ *Example for TTRPG*](https://github.com/pmartinolli/where2publish/blob/main/where2publish-example-TTRPG.csv)
+- [Exemple : jeux de rôle sur table/ *Example for TTRPG*](https://github.com/pmartinolli/where2publish/blob/main/where2publish-example-TTRPG.csv)
 
 ### Aperçu
 | Nom de la revue | Pairs | Focus | Soumission | Langues | Facteur d'Impact | Google Scholar | DOI | ORCID | Libre accès | Frais Publication/APC | Score | Notes |URL
