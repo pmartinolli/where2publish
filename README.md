@@ -118,7 +118,7 @@ Ces techniques consistent à repérer des listes de revues par disciplines ou gr
 
 - Créé le / Created : 2021-03-29
 
-- Dernière version / Most recent version : 2021-03-29 v1
+- Dernière version / Most recent version : 2021-05-19 v1.2
 
 - Format de fichier / Original format : CSV (open format, format ouvert)
 
