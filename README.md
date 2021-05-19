@@ -28,11 +28,13 @@ En bref : Une grille d'analyse à se constituer soi-même, selon sa discipline e
 - **Score** : MON propre jugement sur cette revue. 0 = rejeté. 1 = à considérer en priorité. 2 = peut-être. 3 = peu pertinent.
 - **Notes** : MES notes personnelles sur mon score et mon jugement.
 
-## Constituer des listes de revues
+---
+
+# Constituer une liste de revues pour ma recherche
 
 Voici quelques techniques pour vous constituer des listes de revues où vous pourriez diffuser votre recherche.
 
-### Techniques A : jumelages sujets/revues (recommandés)
+## Techniques A : jumelages sujets/revues (recommandés)
 
 Ces techniques consistent à apparier votre sujet de recherche avec des revues qui ont déjà publié des articles sur ce sujet. Ce sont les techniques recommandées car il est possible que pour 2 article sur des sujets différents, vous ayez à produire 2 tableaux (un peu ou très différents).
 
@@ -55,7 +57,7 @@ Ces techniques consistent à apparier votre sujet de recherche avec des revues q
 - Consultez la section [Outils de jumelage manuscrit/revue](https://bib.umontreal.ca/gerer-diffuser/communication-savante?tab=470)
 
 
-### Techniques B : Listes par disciplines
+## Techniques B : Listes par disciplines
 
 Ces techniques consistent à repérer des listes de revues par disciplines ou grands domaines. Elles sont plus générales que la technique précédente par appariement. Elles servent surtout à identifier les principales revues d'un domaine.
 
