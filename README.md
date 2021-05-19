@@ -131,7 +131,7 @@ Ces techniques consistent à repérer des listes de revues par disciplines ou gr
 - Utilisé par / Used by : Université de Montréal
   - Séminaire PLU6058 - Rechercher et exploiter la documentation
 
-- Commentaires bienvenus / Commments are welcomed at : valerie.rioux.3 [à] umontreal.ca, cynthia.gagne.2 [à] umontreal.ca ou pascal.martinolli [à] umontreal.ca
+- Commentaires bienvenus / Comments are welcomed at : valerie.rioux.3 [à] umontreal.ca, cynthia.gagne.2 [à] umontreal.ca ou pascal.martinolli [à] umontreal.ca
 
 \
 \
