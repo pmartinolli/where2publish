@@ -36,7 +36,7 @@ Voici quelques techniques pour vous constituer des listes de revues où vous pou
 
 ## Techniques A : jumelages sujets/revues (recommandés)
 
-Ces techniques consistent à apparier votre sujet de recherche avec des revues qui ont déjà publié des articles sur ce sujet. Ce sont les techniques recommandées. Car il est possible que pour 2 articles sur des sujets différents, vous ayez à produire 2 tableaux (un peu ou très différents).
+Ces techniques consistent à apparier votre sujet de recherche avec des revues qui ont déjà publié des articles sur ce sujet. Ce sont les techniques recommandées. Car il est possible que pour deux articles sur des sujets différents, vous ayez à produire deux tableaux (un peu ou très différents).
 
 #### A1 : Zotero/Endnote
 
