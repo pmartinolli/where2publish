@@ -7,8 +7,8 @@ En bref : Une grille d'analyse à se constituer soi-même, selon sa discipline e
 - [Exemple : jeux de rôle sur table/ *Example for TTRPG*](https://github.com/pmartinolli/where2publish/blob/main/where2publish-example-TTRPG.csv)
 
 ### Aperçu
-| Nom de la revue | Pairs | Focus | Soumission | Langues | Facteur d'Impact | Google Scholar | DOI | ORCID | Libre accès | Frais Publication/APC | Score | Notes |URL
-| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |  -------- |  -------- |  -------- | ------ |
+| Nom de la revue | Pairs | Focus | Soumission | Langues | Facteur d'Impact | Medline/PubMed | Google Scholar | DOI | ORCID | Libre accès | Frais Publication/APC | Score | Notes |URL
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | |-------- |-------- | -------- |  -------- |  -------- |  -------- | ------ |
 | -     |  | |  | |  |  | | | | | |
 | -     |  | |  | |  |  | | | | | |
 | -     |  | |  | |  |  | | | | | |
@@ -19,7 +19,8 @@ En bref : Une grille d'analyse à se constituer soi-même, selon sa discipline e
 - **Focus** : La revue a-t-elle un focus sur mon sujet de recherche ? Option : combien d'articles sur mon sujet ont-ils déjà été publiés ?
 - **Soumission** : Types de soumission d'articles à la revue : permanent, sur appel, etc. Aussi les préférences de la revue sur le type de recherche et la longueur d'article à soumettre.
 - **Langues** : de publication des articles
-- **Facteur d'Impact** : Est-ce que la revue est dans Web of Science ? Quel est son plus récent facteur d'impact.
+- **Facteur d'Impact** : Est-ce que la revue est indexée dans *Web of Science* (Master Journal List) ? Quel est son plus récent facteur d'impact (si pertinent pour votre discipline) ?
+- **Medline/PubMed** : Est-ce que la revue est indexée dans Medline ou PubMed ? (si pertinent pour votre discipline)
 - **Google Scholar** : Les articles de la revue sont-ils indexés dans Google Scholar ?
 - **DOI** : La revue fournit-elle un DOI pour chaque article publié ?
 - **ORCID** : La revue demande-t-elle des ORCID pour les auteurs (encore peu courant en 2021) ?
@@ -54,7 +55,7 @@ Ces techniques consistent à apparier votre sujet de recherche avec des revues q
 
 #### A3 : Autres jumelages
 
-- Consultez la section [Outils de jumelage manuscrit/revue](https://bib.umontreal.ca/gerer-diffuser/communication-savante?tab=470)
+- Consultez la section [Outils de jumelage manuscrit/revue](https://bib.umontreal.ca/gerer-diffuser/communication-savante/publier-article-scientifique). Notez que ces outils ne sont pas neutres car ils servent à faire la promotion des revues des éditeurs qui les proposent.
 
 
 ## Techniques B : Listes par disciplines
@@ -91,7 +92,7 @@ Ces techniques consistent à repérer des listes de revues par disciplines ou gr
 
 ### Attention aux revues prédatrices !
 
-- Ce sont des revues qui prétendent conduire une évaluation par les pairs de qualité alors qu'elles ne font que recevoir vos frais de publications sans travailler sur votre article. Publier dans une revue prédatrice est très négatif pour votre carrière universitaire. [Pour en savoir plus](https://bib.umontreal.ca/gerer-diffuser/communication-savante?tab=470)
+- Ce sont des revues qui prétendent conduire une évaluation par les pairs de qualité alors qu'elles ne font que recevoir vos frais de publications sans travailler sur votre article. Publier dans une revue prédatrice est très négatif pour votre carrière universitaire. [Pour en savoir plus](https://bib.umontreal.ca/gerer-diffuser/communication-savante/publier-article-scientifique?tab=3443)
 
 ### Article ou chapitre ?
 
