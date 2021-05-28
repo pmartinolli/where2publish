@@ -2,7 +2,8 @@
 
 En bref : Une grille d'analyse à se constituer soi-même, selon sa discipline et selon ses recherches, pour lister et comparer les principales revues où diffuser vos résultats de recherche dans le but de bonifier son CV de jeune chercheur.
 
-*Where to publish my research ? A DIY list to compare the principal journals of your field and to help you decide where to submit your paper for your early career as researcher.*
+***Where to publish my research ?***
+*A DIY list to compare the principal journals of your field and to help you decide where to submit your paper for your early career as researcher.*
 
 - [Exemple : jeux de rôle sur table/ *Example for TTRPG*](https://github.com/pmartinolli/where2publish/blob/main/where2publish-example-TTRPG.csv)
 
