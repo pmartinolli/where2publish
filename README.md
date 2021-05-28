@@ -7,8 +7,8 @@ En bref : Une grille d'analyse à se constituer soi-même, selon sa discipline e
 - [Exemple : jeux de rôle sur table/ *Example for TTRPG*](https://github.com/pmartinolli/where2publish/blob/main/where2publish-example-TTRPG.csv)
 
 ### Aperçu / *Preview*
-| Nom de la revue | Pairs | Focus | Soumission | Langues | Facteur d'Impact | Medline/PubMed | Google Scholar | DOI | ORCID | Libre accès | Frais Publication/APC | Score | Notes |URL
-| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | --------- |-------- |-------- | -------- |  -------- |  -------- |  -------- | ------ |
+| Nom de la revue | Pairs | Focus | Soumission | Langues | Facteur d'Impact | Medline/ PubMed | Google Scholar | DOI | ORCID | Libre accès | Frais Publication/ APC | Score | Notes |URL
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  --- |  --- |  --- | 
 | -     |  | |  | |  |  | | | | | |
 | -     |  | |  | |  |  | | | | | |
 | -     |  | |  | |  |  | | | | | |
