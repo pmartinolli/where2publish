@@ -6,14 +6,14 @@ En bref : Une grille d'analyse à se constituer soi-même, selon sa discipline e
 
 - [Exemple : jeux de rôle sur table/ *Example for TTRPG*](https://github.com/pmartinolli/where2publish/blob/main/where2publish-example-TTRPG.csv)
 
-### Aperçu
+### Aperçu / *Preview*
 | Nom de la revue | Pairs | Focus | Soumission | Langues | Facteur d'Impact | Medline/PubMed | Google Scholar | DOI | ORCID | Libre accès | Frais Publication/APC | Score | Notes |URL
-| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | |-------- |-------- | -------- |  -------- |  -------- |  -------- | ------ |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | --------- |-------- |-------- | -------- |  -------- |  -------- |  -------- | ------ |
 | -     |  | |  | |  |  | | | | | |
 | -     |  | |  | |  |  | | | | | |
 | -     |  | |  | |  |  | | | | | |
 
-### Légende :
+### Légende / *Caption* :
 
 - **Pairs** : Y a-t-il un processus de révision par les pairs valide ? Est-il clair ?
 - **Focus** : La revue a-t-elle un focus sur mon sujet de recherche ? Option : combien d'articles sur mon sujet ont-ils déjà été publiés ?
