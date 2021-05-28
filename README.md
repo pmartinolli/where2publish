@@ -2,10 +2,11 @@
 
 En bref : Une grille d'analyse à se constituer soi-même, selon sa discipline et selon ses recherches, pour lister et comparer les principales revues où diffuser vos résultats de recherche dans le but de bonifier son CV de jeune chercheur.
 
-***Where to publish my research ?***
-*A DIY list to compare the principal journals of your field and to help you decide where to submit your paper for your early career as researcher.*
+- [Exemple : jeux de rôle sur table](https://github.com/pmartinolli/where2publish/blob/main/where2publish-example-TTRPG.csv)
 
-- [Exemple : jeux de rôle sur table/ *Example for TTRPG*](https://github.com/pmartinolli/where2publish/blob/main/where2publish-example-TTRPG.csv)
+> ### ***Where to publish my research ?***
+> *A DIY list to compare the principal journals of your field and to help you decide where to submit your paper for your early career as researcher.*
+> - *[Example for TTRPG](https://github.com/pmartinolli/where2publish/blob/main/where2publish-example-TTRPG.csv)*
 
 ### Aperçu / *Preview*
 | Nom de la revue | Pairs | Focus | Soumission | Langues | Facteur d'Impact | Medline/ PubMed | Google Scholar | DOI | ORCID | Libre accès | Frais Publication/ APC | Score | Notes |URL
@@ -14,7 +15,7 @@ En bref : Une grille d'analyse à se constituer soi-même, selon sa discipline e
 | -     |  | |  | |  |  | | | | | |
 | -     |  | |  | |  |  | | | | | |
 
-### Légende / *Caption* :
+### Légende :
 
 - **Pairs** : Y a-t-il un processus de révision par les pairs valide ? Est-il clair ?
 - **Focus** : La revue a-t-elle un focus sur mon sujet de recherche ? Option : combien d'articles sur mon sujet ont-ils déjà été publiés ?
