@@ -8,7 +8,7 @@ En bref : Une grille d'analyse à se constituer soi-même, selon sa discipline e
 > *A DIY list to compare the principal journals of your field and to help you decide where to submit your paper for your early career as researcher.*
 > - *[Example for TTRPG](https://github.com/pmartinolli/where2publish/blob/main/where2publish-example-TTRPG.csv)*
 
-### Aperçu / *Preview*
+### Aperçu 
 | Nom de la revue | Pairs | Focus | Soumission | Langues | Facteur d'Impact | Medline/ PubMed | Google Scholar | DOI | ORCID | Libre accès | Frais Publication/ APC | Score | Notes |URL
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  --- |  --- |  --- | 
 | -     |  | |  | |  |  | | | | | |
