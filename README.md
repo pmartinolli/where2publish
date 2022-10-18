@@ -57,7 +57,7 @@ Ces techniques consistent à apparier votre sujet de recherche avec des revues q
 
 #### A3 : Autres jumelages
 
-- Consultez la section [Outils de jumelage manuscrit/revue](https://bib.umontreal.ca/gerer-diffuser/communication-savante/publier-article-scientifique). Notez que ces outils ne sont pas neutres car ils servent à faire la promotion des revues des éditeurs qui les proposent.
+- Consultez la section [Outils de jumelage manuscrit/revue](https://bib.umontreal.ca/gerer-diffuser/communication-savante/publier-article-scientifique). Notez que ces outils ne sont pas neutres car ils servent à faire la promotion des revues des éditeurs qui les proposent. Parmi ceux-ci, il semble que l'outil [B!SON](https://service.tib.eu/bison/) sorte du lot en analysant les titres et résumés avec DOAJ et la bibliographie avec OpenCitation. 
 
 
 ## Techniques B : Listes par disciplines
